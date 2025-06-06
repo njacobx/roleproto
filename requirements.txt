@@ -4,5 +4,6 @@ pandas
 numpy
 networkx
 pyvis
-python-dotenv  # if you use .env files for local secrets
-Pillow          # if you do image handling/loading
+plotly
+python-dotenv
+Pillow
