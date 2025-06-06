@@ -1,0 +1,54 @@
+Role,Responsibilities,Overlaps With,Automatable Tasks,Automation %,Potential Hours Saved
+Project Manager,"1. Develop and maintain project plans, timelines, and budgets to ensure successful project completion.
+2. Coordinate and communicate with cross-functional teams to align on project goals, deliverables, and timelines.
+3. Identify and mitigate project risks and issues to prevent delays and budget overruns.
+4. Lead project meetings, provide status updates, and facilitate decision-making processes.
+5. Manage stakeholder expectations and ensure effective communication throughout the project lifecycle.
+6. Monitor project progress and performance metrics to track key milestones and deliverables.
+7. Collaborate with team members to resolve conflicts, make trade-off decisions, and foster a positive team culture.
+8. Continuously improve project management processes and methodologies to enhance efficiency and effectiveness.",Developer; QA Engineer; UX Lead; Product Owner,"1. Task scheduling and tracking: Automate the creation and updating of project schedules, milestones, and task assignments using project management tools like Asana, Trello, or Jira.
+  
+2. Reporting and data analysis: Use AI-powered tools to automatically generate project status reports, analyze project data, and identify potential risks or issues.
+  
+3. Communication management: Automate routine communications with team members, stakeholders, and clients through email templates, chatbots, or project management software integrations.
+  
+4. Resource allocation: Utilize AI algorithms to optimize resource allocation based on project requirements, team availability, and skill sets.
+  
+5. Budget tracking: Automate the tracking of project expenses, budget allocations, and financial reports using accounting software or project management tools with budgeting features.
+  
+6. Risk assessment and mitigation: Implement AI tools to identify potential project risks, assess their impact, and suggest mitigation strategies based on historical data and project parameters.",15,10
+Developer,Write code; Fix bugs,Project Manager; QA Engineer,Build scripts,50,18
+QA Engineer,"1. Develop and implement test plans, test cases, and test scripts to ensure software quality.
+2. Conduct manual and automated testing of software applications to identify defects and ensure functionality meets requirements.
+3. Collaborate with cross-functional teams to understand product requirements and provide feedback on design and functionality.
+4. Perform regression testing to validate software changes and updates, ensuring existing functionality is not affected.
+5. Document and report issues and bugs found during testing, and work with developers to resolve them.
+6. Participate in code reviews to provide input on testability, coding standards, and best practices.
+7. Continuously improve testing processes and methodologies to enhance efficiency and effectiveness of QA activities.",Developer; Project Manager; DevOps Engineer; UX Lead,"1. Test case generation: AI-powered tools can be used to automatically generate test cases based on requirements, reducing the time and effort required for manual test case creation.
+  
+2. Test data generation: Automation tools can be used to generate test data sets to cover a wide range of scenarios, helping QA engineers ensure comprehensive test coverage.
+  
+3. Test execution: Automated testing tools like Selenium or Appium can be used to automate the execution of test cases across different platforms and devices, saving time and increasing efficiency.
+  
+4. Regression testing: AI-powered test automation tools can help QA engineers automate regression testing by identifying and prioritizing test cases that need to be re-executed based on code changes.
+  
+5. Bug triaging: AI algorithms can be used to analyze and categorize incoming bug reports, assigning them to the appropriate team members for resolution based on severity and impact.
+  
+6. Performance testing: Tools like JMeter or LoadRunner can be used to automate performance testing processes, simulating thousands of virtual users to test system performance under various load conditions.
+  
+7. Test result analysis: AI-powered analytics tools can be used to automatically analyze test results, identify patterns, and provide insights to help QA engineers make informed decisions and prioritize testing efforts.",10,8
+DevOps Engineer,Deploy infrastructure,Developer; QA Engineer,Server config automation,30,12
+UX Lead,"- Lead and manage a team of UX designers and researchers
+- Define and drive the overall UX strategy and vision for products
+- Collaborate with cross-functional teams to ensure seamless user experiences
+- Conduct user research and usability testing to inform design decisions
+- Create wireframes, prototypes, and design mockups
+- Establish and maintain design standards and guidelines
+- Stay current on industry trends and best practices in UX design
+- Advocate for the user throughout the product development process",Project Manager; QA Engineer,,10,5
+Product Owner,Prioritise backlog; Define goals,Project Manager,Backlog admin,70,22
+Sales Lead,,,CRM entry,60,10
+Customer Success Manager,,,,25,9
+Business Analyst,Requirements gathering; Stakeholder interviews,Project Manager,Report generation,40,11
+Head of Technology,Strategy; System architecture,Developer,Monitor system health,45,20
+,,,,0,0
