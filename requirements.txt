@@ -2,8 +2,8 @@ streamlit
 openai
 pandas
 numpy
+plotly
+seaborn
+matplotlib
 networkx
 pyvis
-plotly
-python-dotenv
-Pillow
